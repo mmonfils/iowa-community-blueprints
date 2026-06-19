@@ -1,21 +1,19 @@
-# Economic Track: Resource Insulation & Solidarity Economy
+# Economic Track: Tool Sharing & Local Resource Insulation
 
-Welcome to the material stabilization layer of the Iowa Community Blueprints. This track provides localized, non-monetized, and offline toolkits designed to insulate working-class households from corporate extraction and municipal resource gaps.
+Welcome to the economic track. This section provides offline spreadsheets and tools to help neighbors share what they have, look out for families facing hard times, and beat inflation by working together directly.
 
-## Core Objectives
+## Core Goals
 
-The Economic Track equips autonomous block pods with plain-text, accessible tools to:
-* **Map Latent Material Assets**: Catalog skills, tools, and heavy equipment already present within a neighborhood corridor to eliminate reliance on commercial rentals or high-interest debt during crises.
-* **Establish Horizontal Barter Loops**: Facilitate friction-free, non-monetized trade and mutual assistance loops that resist economic inflation and financial tracking.
-* **Shield Vulnerable Neighbors**: Mobilize shared tools and collective labor to fix structural properties before predatory outside code enforcement or commercial interests exploit local maintenance gaps.
+The tools in this track are built to help neighbors:
+* **Map Local Tools and Skills:** Write down what tools (like ladders, lawnmowers, or tools) and skills (like sewing, translation, or repair skills) are already on the block so you don't have to spend money renting them.
+* **Trade Help Directly Without Money:** Create a clear system for swapping help and sharing resources face-to-face without needing cash or third-party bank tracking.
+* **Shield Vulnerable Neighbors:** Mobilize community tools and volunteer hands to fix up a neighbor's yard or porch before outside code inspectors or predatory companies can target them with fines.
 
-## Directory Contents
+## Folder Contents
 
-* **`neighborhood-toolkit-template.csv`**: A plain-text comma-separated database template to track physical tools, emergency gear, and skills across a 3-to-10 household pod.
-* **`exchange-log-template.csv`**: An anonymized, non-monetized mutual ledger template to track community labor credits or direct resource bartering without central-bank currency.
+* **`neighborhood-toolkit-template.csv`**: A plain-text spreadsheet template to keep track of heavy tools, emergency gear, and skills across your 3-to-10 house group.
+* **`exchange-log-template.csv`**: A simple, anonymized template log to help your block see how resources are being shared and ensure help is moving fairly.
 
-## Privacy & Anonymization Mandate
+## Privacy and Anonymity Mandate
 
-To insulate residents from commercial data brokers, municipal overreach, or digital profiling, all templates in this folder must strictly enforce our **No-PII (Personally Identifiable Information)** guidelines. 
-
-Do not store actual addresses, real full names, financial accounts, or phone numbers in these tracking templates within the remote repository. Utilize localized pseudonyms (e.g., *Neighbor Alpha*, *Household 03*) on public versions. Keep the real, un-scrubbed mapping data explicitly localized on physical clipboards, printed porch papers, or encrypted off-grid storage hardware.
+To protect our neighborhood from data tracking, corporate brokers, or city overreach, never upload real neighbor identities to this online repository. Use fake names or placeholder tags (like *Neighbor Blue* or *House 04*) on public versions. Keep the real names written down locally on physical paper logs, porch clipboards, or secure offline drives.
