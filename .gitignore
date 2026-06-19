@@ -1,0 +1,7 @@
+# Editor Backup and Swap Files
+*.bak
+*.tmp
+*~
+.*.swp
+.DS_Store
+Thumbs.db

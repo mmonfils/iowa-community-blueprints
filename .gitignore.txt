@@ -1,6 +1,0 @@
-# Whistleblower Isolation Guardrail
-/investigations/raw_evidence/
-*.xlsx
-*.xlsx.tmp
-*private*
-*unredacted*
