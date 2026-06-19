@@ -1,11 +1,14 @@
 # Contributing to Iowa Community Blueprints
 
-Thank you for helping optimize block autonomy on the asphalt. To protect our project network, all contributions must obey our non-negotiable submission perimeter.
+Thank you for helping make our neighborhoods more self-reliant! To keep our community networks safe and secure, all contributions must follow our strict privacy and sharing guidelines.
 
-## The No-PII Post-Deployment Forking Protocol
-1. We accept optimizations regarding municipal code loopholes, updated text-loop scripts, flyer metrics, or alternative coordination configurations.
-2. Do NOT submit names, phone numbers, addresses, or any Personally Identifiable Information (PII) of neighbors or block pods.
-3. All submissions must represent community-centric improvements and bypass institutional professional jargon.
+## The Rule Against Private Information (No PII)
 
-## Licensing Agreement
-By submitting a pull request or suggesting changes, you agree that your contributions will be permanently bound under the GNU Affero General Public License v3.0 (AGPL-3.0) and Creative Commons Attribution-ShareAlike 4.0 International license.
+Our absolute priority is protecting our neighbors. 
+1.  **What we accept:** We welcome updates that improve text-loop scripts, fix spelling errors, share helpful city code loopholes, or make our templates easier to use for everyday people.
+2.  **What is strictly banned:** Do NOT submit real names, phone numbers, house numbers, or any personal information about your neighbors or block pods to this public repository. 
+3.  **Keep it simple:** Write your suggestions in plain, clear language. Avoid complicated professional jargon or technical terms.
+
+## Licensing and Sharing Agreement
+
+By submitting changes or making suggestions to this repository, you agree that your work will be permanently free and open to the public under the **GNU Affero General Public License v3.0 (AGPL-3.0)** and the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license. If you want your contributions to remain private or commercial, do not submit them here.
