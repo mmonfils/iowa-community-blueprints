@@ -1,19 +1,19 @@
-# Social Track: Block Pods & Mutual Defense
+# Social Track: Block Pods & Neighbor Safety
 
-Welcome to the tactical coordination layer for block-level communication, decentralized safety verification, and mutual care networks across Iowa neighborhoods.
+Welcome to the social track. This section contains simple guides, playbooks, and task-sharing lists to help neighbors talk to each other, stay safe, and coordinate shared care right on their streets.
 
-## Core Objectives
+## Core Goals
 
-The Social Track provides actionable templates, playbooks, and task-rotation frameworks designed to:
-* **Establish Hyper-Local Communication Loops**: Build decentralized, encrypted, or offline communication grids that bypass corporate algorithmic suppression.
-* **Form Block Pods**: Gather groups of 3 to 10 adjacent households to coordinate mutual support without relying on top-down state structures or institutional permits.
-* **Execute Rapid-Response Care**: Mobilize neighbors immediately during extreme weather events, localized infrastructure failures, or safety concerns.
+The tools in this track are designed to help you:
+* **Start Easy Communication Loops:** Set up simple group text messages or encrypted chats so neighbors can talk instantly and look out for each other.
+* **Build Block Pods:** Group 3 to 10 adjacent households together so they can handle everyday problems and share resources without needing official permits or red tape.
+* **Provide Fast Care:** Help vulnerable neighbors quickly during severe blizzards, heatwaves, power outages, or sudden safety issues.
 
-## Directory Contents
+## Folder Contents
 
-* **`neighbor-organizing-playbook.md`**: A step-by-step manual for identifying, contacting, and aligning neighbors into an autonomous block pod.
-* **`sharing-tasks-fairly.md`**: An open-source, horizontal task rotation and labor sharing sheet to prevent burnout and equalize block responsibilities.
+* **`neighbor-organizing-playbook.md`**: A step-by-step guide on how to meet your neighbors, open an easy conversation, and build a local block pod.
+* **`sharing-tasks-fairly.md`**: A simple guide to rotating everyday neighborhood roles so nobody gets burned out or acts like a boss.
 
-## Privacy & Data Safety Guardrails
+## Privacy Guardrails
 
-All tools in this track must strictly strictly honor our **No-PII (Personally Identifiable Information)** guidelines. Do not upload local names, exact house numbers, phone digits, or sensitive medical statuses to the public repository. Keep working data sets localized on physical paper forms, porch clipboards, or encrypted off-grid storage setups.
+All files in this track must protect our neighbors' privacy. Never upload real names, phone numbers, exact addresses, or sensitive health details to GitHub. Keep all real names and household contact info completely offline on physical paper clipboard sheets or private phone lists.
