@@ -13,6 +13,8 @@ The tools in this track are designed to help neighbors:
 
 * **`neighborhood-index-template.csv`**: A simple text template to directory public city offices, utility lines, helpful community pantries, and independent media desks.
 * **`big-picture-framework.md`**: A plain template layout to help your block talk through major local news, town planning updates, or zoning laws to see how they will affect your neighborhood.
+* **`peer-review-matrix.md`**: A static reference ledger containing vetted domestic and global peer-community alternatives to help ground local solutions journalism audits.
+  * *Access Control:* Publicly readable, but can only be modified via authorized repository pull requests following a verified forensic solutions journalism audit.
 
 ## Privacy Mandate
 
