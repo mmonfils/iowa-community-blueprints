@@ -1,6 +1,6 @@
 # Iowa Community Blueprints
 
-This project is an open-source framework for neighborhood teamwork, policy solutions, and shared care in Iowa. It is a simple, community-run guide designed to help everyday people look out for each other and build strong, independent support networks right where they live.
+This project is an open-source technical repository providing policy tracking frameworks, structural toolkits, and routine coordination tools to reinforce community safety and civil stability in Iowa. It is a practical, community-run framework engineered to help everyday people coordinate resources, protect local infrastructure, and build resilient support networks right where they live.
 
 We believe that every person living on a block has equal standing and an absolute right to be included. You don't need to own a home, have a special title, or ask a city bureaucrat for permission to make your neighborhood a better, safer place.
 
