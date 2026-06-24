@@ -4,10 +4,11 @@ Thank you for helping make our neighborhoods more self-reliant! To keep our comm
 
 ## The Rule Against Private Information (No PII)
 
-Our absolute priority is protecting our neighbors. 
-1.  **What we accept:** We welcome updates that improve text-loop scripts, fix spelling errors, share helpful city code loopholes, or make our templates easier to use for everyday people.
-2.  **What is strictly banned:** Do NOT submit real names, phone numbers, house numbers, or any personal information about your neighbors or block pods to this public repository. 
-3.  **Keep it simple:** Write your suggestions in plain, clear language. Avoid complicated professional jargon or technical terms.
+Our absolute priority is protecting our neighbors and preserving operational security.
+
+1. **What we accept:** We welcome updates that improve text-loop scripts, fix structural template errors, share verified policy data, or make our deployment manuals more effective for field execution.
+2. **What is strictly banned:** Do NOT submit real names, phone numbers, house numbers, private health variables, or any personal information about your neighbors or block pods to this public repository. 
+3. **Enforce Purpose-Driven Clarity:** Write updates in a clear, authoritative, and direct posture. Avoid empty corporate buzzwords and casual conversational "chatter." Focus entirely on high-density, actionable information with zero dilution of meaning.
 
 ## Licensing and Sharing Agreement
 
