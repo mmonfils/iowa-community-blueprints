@@ -1,26 +1,26 @@
 # ACTION ROADMAP: PSYCHIATRIC DISCHARGE PLANS (HF 385)
 
-**Subject:** NAMI Iowa Discharge Plans Legislative Priority (HF 385)  
-**Primary Goal:** Deploy ready-made fiscal infrastructure to unblock the 15-day transitional medication funding loop across MHDS/ASO networks  
-**Stakeholders:** Regional administrators, legislative champions, and advocacy directors  
+**Subject:** Community Engagement and Relationship Blueprint for HF 385 Implementation  
+**Primary Goal:** Use the legislative interim to build stakeholder relationships, listen to frontline operators, and map administrative bottlenecks.  
+**Stakeholders:** Regional administrators, hospital network discharge coordinators, and community advocacy directors  
 **Date of Summary:** June 24, 2026
 
 ***
 
 # PROJECTED TIMELINE
 
-## PHASE 1: FORENSIC DATA INJECTION & INSIDER RISK-MAPPING (Q3 2026)
-* **The Deliverable:** Build and deploy `forensic-default-calculator.md`—a layout mapping the exact daily cost of county jail beds and emergency department boarding against the $1,100–$1,600 USD LSA baseline.
-* **The Action:** Quietly deliver this calculator via Embedded Insiders straight to Senate Health and Human Services staff. Provide block-level fiscal proof showing the exact day an interrupted medication pipeline defaults onto local county property tax budgets.
+## PHASE 1: INTERIM STAKEHOLDER ENGAGEMENT & LISTENING (Q3 2026)
+* **The Objective:** Initiate open-ended, relationship-first outreach with hospital discharge coordinators, mental health advocates, and regional administrative personnel to understand their localized operational concerns.
+* **The Action:** Conduct informational interviews and listen to frontline experiences regarding the transitional care requirements outlined in HF 385, ensuring all insights are anchored strictly in real-world feedback.
 
-## PHASE 2: TURN-KEY POLICY DESIGN & RISK-POOL ARCHITECTURE (Q4 2026)
-* **The Deliverable:** Draft the exact statutory-ready text in `risk-pool-amendment.md` to insert the Iowa Regional Crisis Stabilization Risk Pool framework directly into existing regional Administrative Services Organization (ASO) rules.
-* **The Action:** Hand Senate champions a pre-vetted legal/fiscal template that completely resolves the uncompensated care liability deadlock. This eliminates the excuse that the legislative adjustment requires deep administrative discovery.
+## PHASE 2: SYSTEMIC FRICTION POINT ANALYSIS (Q4 2026)
+* **The Objective:** Review and catalog the specific qualitative administrative bottlenecks that delay care coordination or funding transitions when an individual is discharged without active insurance.
+* **The Action:** Map where communication gaps occur between inpatient facilities and regional care networks, identifying structural patterns without overstepping into formal legal or policy drafting.
 
-## PHASE 3: FIELD VOUCHER PROTOTYPING & DAY ON THE HILL (Q1 2027)
-* **The Deliverable:** Issue a standardized layout in `first-fill-voucher-protocol.md`, mapping how regional pharmacy networks can bypass hospital billing pipelines using a single, unified transitional billing clearing code.
-* **The Action:** Arm grassroots Megaphones and Operators during NAMI Day on the Hill with this exact turn-key package. Force a committee vote by eliminating procedural complexity arguments.
+## PHASE 3: COLLABORATIVE ADVOCACY ALIGNMENT (Q1 2027)
+* **The Objective:** Synthesize field-level observations into clear, high-level summaries to support established statewide advocacy organizations as the legislative session begins.
+* **The Action:** Provide community-informed data regarding real-world discharge bottlenecks to advocacy partners, equipping them with block-level insights to help clarify issues for legislative committees.
 
-## PHASE 4: MUTUAL PERFORMANCE ACCOUNTABILITY (Q2 2027)
-* **The Deliverable:** Deploy an open-source logging format via `medication-pipeline-disruption-ledger.md` across frontline regional mutual aid and care networks.
-* **The Action:** Use local Operators to track compliance in real-time. If a facility discharges an individual without a warm handoff or a 15-day supply, the disruption is immediately logged into the backend repository, creating an unalterable, forensic receipt line to ensure public accountability.
+## PHASE 4: ONGOING RELATIONSHIP BUILDING (Q2 2027)
+* **The Objective:** Maintain active, horizontal communication loops across local care systems and community groups to encourage collaborative, continuous problem-solving.
+* **The Action:** Foster ongoing dialogue among local stakeholders to ensure that implementation strategies remain focused on client dignity, continuity of care, and structural efficiency.
