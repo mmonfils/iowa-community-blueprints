@@ -1,19 +1,20 @@
-# Social Track: Block Pods & Neighbor Safety
+# Social Infrastructure Track: Neighbor Pods & Block-Level Mutual Aid
 
-Welcome to the social track. This section contains simple guides, playbooks, and task-sharing lists to help neighbors talk to each other, stay safe, and coordinate shared care right on their streets.
+This directory contains the operational blueprints, field manuals, and resource-sharing tools needed to build resilient, block-level networks. These tools are designed to help neighbors organize independent social safety nets that can absorb material hardships or utility disruptions directly, without relying on slow institutional intervention.
 
-## Core Goals
+## I. Core Operational Objectives
 
-The tools in this track are designed to help you:
-* **Start Easy Communication Loops:** Set up simple group text messages or encrypted chats so neighbors can talk instantly and look out for each other.
-* **Build Block Pods:** Group 3 to 10 adjacent households together so they can handle everyday problems and share resources without needing official permits or red tape.
-* **Provide Fast Care:** Help vulnerable neighbors quickly during severe blizzards, heatwaves, power outages, or sudden safety issues.
+* **Direct Local Communication:** Establish simple, reliable communication channels—such as offline alert trees or secure messaging groups—to guarantee fast information sharing and real-time safety updates across nearby households.
+* **Resilient Neighbor Pods:** Group adjacent homes (typically 3 to 10 households) into self-governing units capable of coordinating mutual aid, sharing vital resources, and solving immediate logistical problems without administrative friction.
+* **Vulnerability Protection:** Deploy rapid resource-pooling plans to support high-risk neighbors—including elderly, isolated, or medically vulnerable residents—during acute crises like severe weather events or grid failures.
 
-## Folder Contents
+## II. Directory Architecture
 
-* **`neighbor-organizing-playbook.md`**: A step-by-step guide on how to meet your neighbors, open an easy conversation, and build a local block pod.
-* **`sharing-tasks-fairly.md`**: A simple guide to rotating everyday neighborhood roles so nobody gets burned out or acts like a boss.
+* `neighbor-organizing-playbook.md`: A step-by-step field guide for conducting initial street-level outreach, mapping neighborhood needs, and establishing active local pods.
+* `sharing-tasks-fairly.md`: A practical governance tool providing labor-distribution matrices and rotating schedules to ensure responsibilities remain shared, preventing burnout or centralized control.
 
-## Privacy Guardrails
+## III. Data Integrity & Privacy Firewalls
 
-All files in this track must protect our neighbors' privacy. Never upload real names, phone numbers, exact addresses, or sensitive health details to GitHub. Keep all real names and household contact info completely offline on physical paper clipboard sheets or private phone lists.
+To guarantee complete operational security and shield participants from external liability, this track enforces a strict zero-telemetry rule:
+
+> **Mandatory Security Protocol:** Personally identifiable information (PII)—including real names, phone numbers, exact street addresses, or private health data—must never be uploaded to this public repository. All active contact lists, neighborhood asset sheets, and resource ledgers must remain entirely offline, physically isolated, and kept exclusively on paper logs or secure, unnetworked local storage.
