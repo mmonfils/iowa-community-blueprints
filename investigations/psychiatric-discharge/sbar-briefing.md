@@ -1,7 +1,7 @@
 # RESPONSIBLE PSYCHIATRIC DISCHARGE PLANS (HF 385)
 
-**Subject:** NAMI Iowa 2026 Legislative Priority: Requiring responsible discharge plans for patients who have had a psychiatric hospitalization
-**Peer Solution Blueprint:** No documented peer program found matching these criteria.
+**Subject:** NAMI Iowa 2026 Legislative Priority: Requiring responsible discharge plans for patients who have had a psychiatric hospitalization  
+**Peer Solution Blueprint:** No documented peer program found matching these criteria.  
 **Date of Summary:** June 24, 2026
 
 ## I. SITUATION
@@ -18,6 +18,6 @@ No documented peer program found matching these criteria. While alternative stat
 **The Comparative Fiscal Reality:** Behavioral health data demonstrates a clear imbalance in costs. The front-end investment required to fund the bill's targeted 15-day transitional supply falls safely beneath the broader 422,000 to 572,000 USD annual calculation projected by the LSA for an entire 30-day macro-baseline. Conversely, an immediate clinical relapse driven by an interrupted medication pipeline directly manifests as high-intensity, back-end municipal liabilities: emergency department boarding, acute crisis responses, and immediate county jail intake costs. These outcomes extract significantly higher daily operational tolls from local and county budgets.
 
 ## IV. RECOMMENDATION
-1. **Amend HF 385 Fiscal Infrastructure:** Introduce a legislative amendment establishing an Iowa Regional Crisis Stabilization Risk Pool within the existing ASO framework to absorb uncompensated post-discharge medication costs.
-2. **Launch First-Fill Voucher Pilot:** Partner with regional pharmacy networks to deploy a standardized voucher protocol, routing transition bills directly away from hospital cash-flow lines.
-3. **Deploy Cost Impact Briefings:** Deliver targeted, block-level fiscal impact data to key Senate committee leadership, demonstrating how front-end safety-net investments directly shield back-end county jail and emergency room operational budgets from far costlier defaults.
+1. **Deploy a Forensic Municipal Default Calculator:** Equip regional leadership with localized data sets matching the front-end $1,100–$1,600 USD LSA psychotropic medication baseline directly against the higher daily operational tolls of county jail intake and emergency room boarding.
+2. **Inject Ready-Made Risk Pool Infrastructure:** Introduce a structured legislative amendment establishing an Iowa Regional Crisis Stabilization Risk Pool within the existing ASO framework to absorb uncompensated post-discharge medication overhead, removing cash-flow liabilities from local hospitals.
+3. **Draft a Turn-Key First-Fill Voucher Protocol:** Establish a standardized, off-the-shelf voucher framework with regional pharmacy networks to route transitional bills away from hospital cash-flow lines, eliminating the administrative friction holding up the bill.
