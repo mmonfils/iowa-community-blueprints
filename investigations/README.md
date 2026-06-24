@@ -1,14 +1,16 @@
-# Investigations Space: The Research Engine Room
+# Investigations Space: Forensic Data Ledger & Systems Verification
 
-Welcome to the investigations space. This folder is the central room where neighbors and public researchers store public facts, system maps, and clear data sheets regarding local utilities, housing trends, and institutional issues.
+Welcome to the investigations space. This directory serves as the centralized repository for public-record source materials, macro-level systemic maps, and empirical data sets regarding public utilities, regulatory frameworks, housing market velocities, and institutional governance structures.
 
 ## Core Goals
 
-The materials in this section are meant to:
-* **Verify the Facts:** Gather clear, verifiable public data about local systems to back up community claims and maintain absolute truth.
-* **Focus on the Big System, Not Individuals:** We focus entirely on structural root causes and large institutional systems (like major public utility networks or county-wide private towing policies) rather than calling out specific individual workers or mid-level employees.
-* **Provide a Public Proof Box:** If a news outlet or city official questions the accuracy of our guides, this directory provides a direct, un-editable public repository where anyone can view raw public records and check our work.
+The materials and data sets in this directory are engineered to:
+* **Enforce Forensic Fact-Verification:** Maintain an un-assailable, audit-ready index of public data and official source records to validate all community solutions journalism reports and structural claims.
+* **Prioritize Macro-Systemic Analysis:** Isolate and audit structural root causes, statutory loops, and institutional frameworks (such as regional utility infrastructure grids or municipal enforcement mandates) while strictly excluding focus on individual mid-level administrative personnel.
+* **Provide an Open-Access Proof Vault:** Act as a permanent, immutable public verification ledger where journalists, policy makers, and community members can cross-reference raw source citations and independently audit our analytical conclusions.
 
-## How to Use This Space
+## Operational Protocol
 
-All files in this folder must consist of public documents, regional spreadsheets, or open-source municipal data. In strict compliance with our privacy rules, no private individual data, neighborhood pod lists, or personal identifying information can ever enter this directory.
+All files housed within this directory must consist exclusively of public records, statutory texts, regional data sheets, or verified municipal disclosures. 
+
+In strict compliance with our core architectural mandate, no personal private telemetry, local mutual-aid rosters, or private household data points can ever enter this workspace. Information sovereignty requires a hard wall between open-source systemic investigation data and decentralized local organizational networks.
