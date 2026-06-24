@@ -8,10 +8,10 @@ We believe that every person living on a block has equal standing and an absolut
 
 To keep things organized, our tools are split into four main tracks:
 
-* **`social-track/`**: Simple guides for starting block communication loops, setting up small neighbor groups (pods), and looking out for safety.
+* **`social-track/`**: Practical operational toolkits for building resilient neighbor pods, establishing local communication channels, and organizing crisis-absorption networks.
 * **`economic-track/`**: Offline spreadsheets to help neighbors share tools, swap skills, and trade everyday help without using money.
 * **`policy-political-track/`**: Plain-language templates to help neighbors understand local city rules, protect their space, and track outside pressures like predatory developers.
-* **`investigations/`**: Public documents, local facts, and shared research addressing major community concerns and neighborhood systems.
+* **`investigations/`**: Rigorous, system-level research briefs and forensic 4-Quadrant analyses tracking systemic gaps and policy-driven local friction.
 
 ## License & Copyleft Protection
 
@@ -21,4 +21,4 @@ This means you are completely free to copy, change, and share these guides for y
 
 ## How to Get Involved
 
-Please read `CONTRIBUTING.md` to see our strict rules against posting private personal information, and look over `CODE_OF_CONDUCT.md` to understand our front-porch communication standards before making suggestions or updates.
+Please read `CONTRIBUTING.md` to see our strict rules against posting private personal information, and look over `CODE_OF_CONDUCT.md` to understand our front-porch communication standards before making suggestions or updates."
