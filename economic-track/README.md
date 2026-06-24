@@ -1,19 +1,20 @@
-# Economic Track: Tool Sharing & Local Resource Insulation
+# Economic Track: Tangible Asset Mapping & Resource Insulation
 
-Welcome to the economic track. This section provides offline spreadsheets and tools to help neighbors share what they have, look out for families facing hard times, and beat inflation by working together directly.
+Welcome to the economic track. This section provides the structured, offline ledger models required to inventory shared physical capital, insulate local resource networks, and stabilize neighborhood baseline infrastructure outside of corporate commercial systems or speculative markets.
 
 ## Core Goals
 
-The tools in this track are built to help neighbors:
-* **Map Local Tools and Skills:** Write down what tools (like ladders, lawnmowers, or tools) and skills (like sewing, translation, or repair skills) are already on the block so you don't have to spend money renting them.
-* **Trade Help Directly Without Money:** Create a clear system for swapping help and sharing resources face-to-face without needing cash or third-party bank tracking.
-* **Shield Vulnerable Neighbors:** Mobilize community tools and volunteer hands to fix up a neighbor's yard or porch before outside code inspectors or predatory companies can target them with fines.
+The tools in this track are engineered to help regional operators and localized teams:
+* **Inventory Physical Infrastructure & Assets:** Catalog high-utility tools, emergency gear, technical skill sets, and structural neighborhood wealth to optimize local utilization and eliminate external rental deficits.
+* **Normalize Frictionless Direct Exchange:** Establish systematic, offline metrics for balancing resource distribution and peer-to-peer equipment sharing without relying on third-party commercial platforms or data tracking.
+* **Insulate At-Risk Assets:** Mobilize community-owned physical tools and tactical workflows to address structural municipal property code vulnerabilities before administrative enforcement or predatory commercial actors capture local real estate.
 
 ## Folder Contents
 
-* **`neighborhood-toolkit-template.csv`**: A plain-text spreadsheet template to keep track of heavy tools, emergency gear, and skills across your 3-to-10 house group.
-* **`exchange-log-template.csv`**: A simple, anonymized template log to help your block see how resources are being shared and ensure help is moving fairly.
+* **`neighborhood-toolkit-template.csv`**: A micro-level spreadsheet template to inventory heavy tools, utility gear, logistics assets, and specialized tactical skills across a 3-to-10 household block group.
+* **`exchange-log-template.csv`**: An anonymized transactional log template designed to track utilization velocities, resource distribution, and mutual support balance sheets without capturing private behavioral trends.
+* **`neighborhood-index-template.csv`**: A macro-level ledger template engineered to directory shared community assets, public utility access nodes, localized distribution pantries, and independent media infrastructure to track community wealth on a neighborhood-wide scale.
 
-## Privacy and Anonymity Mandate
+## Privacy & Operational Security Mandate
 
-To protect our neighborhood from data tracking, corporate brokers, or city overreach, never upload real neighbor identities to this online repository. Use fake names or placeholder tags (like *Neighbor Blue* or *House 04*) on public versions. Keep the real names written down locally on physical paper logs, porch clipboards, or secure offline drives.
+To maintain strict operational security and neutralize external data-scraping or data-broker liabilities, publishing real personal identities, address numbers, or sensitive household metadata on this public server is strictly prohibited. All public templates must utilize functional alphanumeric tags or structural placeholder coordinates (e.g., *Sector 04*, *Node Blue*). Comprehensive asset mapping indices linking to real-world identities must remain strictly decentralized on local, offline hardware or physical clipboards.
