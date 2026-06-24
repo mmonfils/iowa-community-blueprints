@@ -13,7 +13,7 @@ The tools in this track are engineered to help regional operators and grassroots
 ## Folder Contents
 
 * **`big-picture-framework.md`**: A baseline structural template to analyze major policy adjustments, town planning developments, or statutory changes to map out immediate regional impact (**Step 1 of the organizing pipeline**).
-* **`sbar-template.md`**: A dynamic, four-quadrant SBAR (Situation, Background, Assessment, Recommendation) template designed to establish an authoritative policy brief once a specific systemic friction point is identified (**Step 2 of the organizing pipeline**).
+* **`sbar-briefing-template.md`**: A dynamic, four-quadrant SBAR (Situation, Background, Assessment, Recommendation) template designed to establish an authoritative policy brief once a specific systemic friction point is identified (**Step 2 of the organizing pipeline**).
 * **`action-roadmap-template.md`**: A compact, high-density timeline template engineered to map out localized execution phases, evidence-gathering milestones, and administrative rollout dates across a four-quarter horizon (**Step 3 of the organizing pipeline**).
 * **`peer-review-examples.md`**: A static reference chart containing data-verified domestic and global peer-community models used to ground local solutions journalism audits with concrete, real-world alternatives.
     * *Access Control:* Publicly readable; structural modifications require an authorized repository pull request supported by a completed forensic policy audit.
