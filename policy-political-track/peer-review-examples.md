@@ -1,9 +1,7 @@
-# Peer Review Solutions Matrix
+# Peer Review Examples
 
-### About This Ledger
+### About This Chart
 This file serves as a reference index of policy and community-building models from comparable cities and regions worldwide. It is designed to provide background data and historical proof-of-concept options when drafting deep-dive neighborhood investigations.
-
-If you are looking for the hands-on template to break down a current local news event, analyze a new city ordinance, or plan immediate action for your block, please use the interactive community worksheet located here: [big-picture-framework.md](../policy-political-track/big-picture-framework.md).
 
 ***
 
