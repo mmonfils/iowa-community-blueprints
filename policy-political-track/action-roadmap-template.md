@@ -1,11 +1,14 @@
 # ACTION ROADMAP: [PROJECT NAME / POLICY TARGET]
 
-## I. INTRODUCTION
 **Subject:** [Campaign, Bill Number, or Target Policy Priority]  
 **Primary Goal:** [The singular systemic outcome required to unblock the friction point]  
-**Stakeholders:** [Key decision-makers, regional administrators, or primary advocacy targets]
+**Stakeholders:** [Key decision-makers, regional administrators, or primary advocacy targets]  
+**Date of Summary:** [Month DD, YYYY]
 
-## II. PROJECTED TIMELINE
+***
+
+# PROJECTED TIMELINE
+
 **PHASE 1: [PHASE TITLE] ([TARGET QUARTER/YEAR])**
 [Detail the initial groundwork here. Focus on gathering firsthand evidence or data to prove the systemic breakdown. Identify the legislative or administrative gatekeepers to target, and outline preliminary outreach to secure early commitments from foundational regional partners.]
 
