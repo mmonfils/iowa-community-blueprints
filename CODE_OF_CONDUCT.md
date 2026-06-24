@@ -1,7 +1,12 @@
-# Front-Porch Communication Standards
+# Community Code of Conduct & Cooperation Standards
 
-Our project runs entirely on neighborhood teamwork, local accountability, and common sense. We follow a few strict, simple rules for all organizing spaces, message threads, online platforms, and face-to-face neighborhood meetings:
+This repository provides templates for direct, grassroots cooperation. To maintain constructive, collaborative spaces both online and offline, all contributors and participants follow three core standards:
 
-1.  **Everyone Has a Seat at the Table:** Every single person living on a block has full standing, absolute dignity, and an immediate right to be included. Your value to the neighborhood is never decided by whether you own a house, rent an apartment, how much money you make, or your background.
-2.  **No Political Labels or Academic Buzzwords:** Partisan political labels and complicated academic talking points are banned from our organizing work. We speak exclusively in plain language about things everyone cares about: block safety, shared tools, and protecting our neighbors.
-3.  **Take Care of Things Locally:** We work together as neighbors to handle everyday problems, housing friction, or resource needs directly using mutual aid. We avoid calling top-down enforcement agencies or city code offices unless absolutely necessary.
+### I. Equal Standing for Every Neighbor
+Participation within this project is based entirely on local contribution, not socioeconomic status. Every resident has absolute dignity, full standing, and an immediate right to be included. A person's value to the network is completely independent of whether they own property, rent, their income level, or their background.
+
+### II. Action-Oriented Language Only
+To keep our focus entirely on practical results and avoid unnecessary division, we use plain, direct language. Partisan political labels, academic jargon, and abstract theoretical talking points are excluded from repository discussions, message channels, and project spaces. We speak exclusively about actionable, local parameters: block safety, tool sharing, and protecting our neighbors.
+
+### III. Proactive Problem-Solving & Local Collaboration
+Everyday logistical issues, friction, or resource coordination needs are addressed directly through open communication and local mutual support. Neighbors use proactive, collaborative problem-solving to handle routine, non-emergency challenges efficiently at the block level. This focus preserves public administrative resources for their intended purposes and strengthens immediate community resilience through active, shared responsibility.
