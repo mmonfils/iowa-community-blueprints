@@ -10,7 +10,7 @@ Before a topic moves from a raw idea to an active investigation, it must meet th
 
 1. **Established Momentum:** Priority is given to issues that already have community attention or legislative progress (such as bipartisan agreement). This ensures our data is immediately useful to existing advocacy networks.
 2. **Clear Administrative Bottlenecks:** Topics must focus on real-world operational breakdowns, communication gaps, or funding delays between government bureaucracies and frontline services.
-3. **Social Work Practice Alignment:** The project must stay within the professional scope of social work—focusing on client dignity, coordination of care, and relationship building rather than writing complex legal statutes or advanced technical code.
+3. **Social Work Practice Alignment:** The project must stay within the professional scope of social work, focusing on client dignity, coordination of care, and relationship building rather than writing complex legal statutes or advanced technical code.
 4. **Structural Focus over Personalities:** In line with repository rules, we investigate institutional frameworks, financial pipelines, and regulatory loops. We do not focus on or target individual administrative staff or local workers.
 
 ---
