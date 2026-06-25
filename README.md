@@ -1,5 +1,7 @@
 # Iowa Community Blueprints
 
+### Live Mobile Landing Page: [https://mmonfils.github.io/iowa-community-blueprints/](https://mmonfils.github.io/iowa-community-blueprints/)
+
 This project is an open-source technical repository providing policy tracking frameworks, structural toolkits, and routine coordination tools to reinforce community safety and civil well-being in Iowa. It is a practical, community-run framework engineered to help everyday people coordinate resources, protect local infrastructure, and build resilient support networks right where they live.
 
 We believe that every person has equal standing and an absolute right to be included. You don't need to own a home, have a special title, or deal with red tape to make your neighborhood a better, safer place.
