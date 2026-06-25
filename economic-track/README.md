@@ -1,20 +1,22 @@
-# Economic Track: Tangible Asset Mapping & Resource Insulation
+# Economic Track: Neighborhood Tool Sharing & Helping Budgets Make Sense
 
-Welcome to the economic track. This section provides the structured, offline ledger models required to inventory shared physical capital, insulate local resource networks, and stabilize neighborhood baseline infrastructure outside of corporate commercial systems or speculative markets.
+Welcome to the economic track. This section contains simple, everyday tracking sheets to help our blocks look at what we own together, share tools easily, and protect our neighborhood resources without needing to rely on big companies, apps, or outside markets.
 
 ## Core Goals
 
-The tools in this track are engineered to help regional operators and localized teams:
-* **Inventory Physical Infrastructure & Assets:** Catalog high-utility tools, emergency gear, technical skill sets, and structural neighborhood wealth to optimize local utilization and eliminate external rental deficits.
-* **Normalize Frictionless Direct Exchange:** Establish systematic, offline metrics for balancing resource distribution and peer-to-peer equipment sharing without relying on third-party commercial platforms or data tracking.
-* **Insulate At-Risk Assets:** Mobilize community-owned physical tools and tactical workflows to address structural municipal property code vulnerabilities before administrative enforcement or predatory commercial actors capture local real estate.
+The tools in this track are built to help neighbors:
+* **Keep Track of Shared Tools & Skills:** List helpful things like heavy tools, emergency equipment, and handy skills right on our blocks so everyone can use them without having to rent or buy them new.
+* **Make Borrowing and Sharing Easy:** Set up simple, offline ways to track who is using what equipment so that sharing stays fair and easy, without giving away our private habits to online data companies.
+* **Protect Neighborhood Spaces:** Map out local tools and quick fixes to help neighbors take care of minor home repair issues before the city steps in with fines or outside buyers take interest.
+* **Help Everyday People Talk About Budgets:** Give neighbors a clear guide to show city leaders and lawmakers why spending a little bit of public money on upfront care right now saves tax dollars on costly emergency services later.
 
 ## Folder Contents
 
-* **`neighborhood-toolkit-template.csv`**: A micro-level spreadsheet template to inventory heavy tools, utility gear, logistics assets, and specialized tactical skills across a 3-to-10 household block group.
-* **`exchange-log-template.csv`**: An anonymized transactional log template designed to track utilization velocities, resource distribution, and mutual support balance sheets without capturing private behavioral trends.
-* **`neighborhood-index-template.csv`**: A macro-level ledger template engineered to directory shared community assets, public utility access nodes, localized distribution pantries, and independent media infrastructure to track community wealth on a neighborhood-wide scale.
+* **`neighborhood-toolkit-template.csv`**: A simple spreadsheet template to list heavy tools, backup gear, and handy skills across a group of 3 to 10 nearby households.
+* **`exchange-log-template.csv`**: A basic sign-out sheet to keep track of how tools are being used across the block without keeping detailed personal logs on anyone.
+* **`neighborhood-index-template.csv`**: A larger neighborhood log to help map out shared assets, like community gardens, public water access nodes, neighborhood food pantries, or local newsletters.
+* **`economic-advocacy-template.md`**: A guide for neighbors to build a clear, budget-friendly argument for local funding by comparing the low cost of proactive care against expensive back-end emergency costs (like ER visits, jail processing, or temporary shelters).
 
-## Privacy & Operational Security Mandate
+## Keeping Our Information Safe and Private
 
-To maintain strict operational security and neutralize external data-scraping or data-broker liabilities, publishing real personal identities, address numbers, or sensitive household metadata on this public server is strictly prohibited. All public templates must utilize functional alphanumeric tags or structural placeholder coordinates (e.g., *Sector 04*, *Node Blue*). Comprehensive asset mapping indices linking to real-world identities must remain strictly decentralized on local, offline hardware or physical clipboards.
+To make sure our neighborhood stays safe and our personal data stays private, never upload real names, house numbers, or private personal details to this online server. All public templates should use simple, made-up labels or placeholders (like *Block A* or *House 1*). Any real list connecting tools or needs to actual names must be kept completely offline on physical clipboards or paper notebooks.
