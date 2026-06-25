@@ -1,20 +1,22 @@
 # Social Infrastructure Track: Neighbor Pods & Block-Level Mutual Aid
 
-This directory contains the operational blueprints, field manuals, and resource-sharing tools needed to build resilient, block-level networks. These tools are designed to help neighbors organize independent social safety nets that can absorb material hardships or utility disruptions directly, without relying on slow institutional intervention.
+This directory contains simple guides, field manuals, and sharing tools to help us build strong, supportive networks right on our streets. These tools help neighbors organize independent safety nets to support each other through everyday hardships, storms, or power outages without waiting around for slow institutional help.
 
 ## I. Core Operational Objectives
 
-* **Direct Local Communication:** Establish simple, reliable communication channels—such as offline alert trees or secure messaging groups—to guarantee fast information sharing and real-time safety updates across nearby households.
-* **Resilient Neighbor Pods:** Group adjacent homes (typically 3 to 10 households) into self-governing units capable of coordinating mutual aid, sharing vital resources, and solving immediate logistical problems without administrative friction.
-* **Vulnerability Protection:** Deploy rapid resource-pooling plans to support high-risk neighbors—including elderly, isolated, or medically vulnerable residents—during acute crises like severe weather events or grid failures.
+* **Direct Local Communication:** Set up clear, dependable ways to talk to each other, like phone trees or text groups, so we can share safety updates and quick news across nearby homes.
+* **Resilient Neighbor Pods:** Group small clusters of nearby homes (about 3 to 10 households) into independent teams that can look out for one another, share resources, and solve local problems without extra red tape.
+* **Looking Out for Vulnerable Neighbors:** Build quick, practical plans to check on high-risk neighbors, including elderly, isolated, or medically vulnerable folks, during unexpected emergencies like bad weather or power grid failures.
+* **Real Conversations on the Block:** Turn complicated outside policies into normal, friendly living room discussions, using patient listening and shared values to cut through political noise.
 
 ## II. Directory Architecture
 
-* `neighbor-organizing-playbook.md`: A step-by-step field guide for conducting initial street-level outreach, mapping neighborhood needs, and establishing active local pods.
-* `sharing-tasks-fairly.md`: A practical governance tool providing labor-distribution matrices and rotating schedules to ensure responsibilities remain shared, preventing burnout or centralized control.
+* `neighbor-organizing-playbook.md`: A step-by-step guide on how to say hello to neighbors on your street, figure out what people need, and start an active neighborhood pod.
+* `sharing-tasks-fairly.md`: A simple helper tool with rotating schedules to ensure block tasks stay shared, keeping things fair and preventing anyone from getting burned out.
+* `neighbor-communication-template.md`: A guide to help connect major news updates to real-world, person-to-person talks on the block, featuring open-ended questions and story-sharing ideas.
 
-## III. Data Integrity & Privacy Firewalls
+## III. Keeping Our Private Details Offline
 
-To guarantee complete operational security and shield participants from external liability, this track enforces a strict zero-telemetry rule:
+To keep our neighborhood safe and protect everyone's privacy, we follow a strict offline rule for personal information:
 
-> **Mandatory Security Protocol:** Personally identifiable information (PII)—including real names, phone numbers, exact street addresses, or private health data—must never be uploaded to this public repository. All active contact lists, neighborhood asset sheets, and resource ledgers must remain entirely offline, physically isolated, and kept exclusively on paper logs or secure, unnetworked local storage.
+> **Mandatory Privacy Rule:** Personally identifiable information—like real names, phone numbers, exact street addresses, or private health situations—must never be uploaded to this public repository. All real contact lists, neighborhood help sheets, and resource logs must stay entirely offline, written down strictly on paper charts or kept on local, unnetworked home computers.
