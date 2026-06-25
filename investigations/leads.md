@@ -1,6 +1,6 @@
 # Investigations Workspace: Future Case Study Tracker
 
-This tracker documents potential ideas for future macro-systemic case studies within the Iowa Community Blueprints (ICB) repository. To ensure our research is reliable and stays grounded in social work values, this document outlines a simple three-step validation process. This structure helps us catch incorrect assumptions early and keeps our focus strictly on building relationships, improving continuity of care, and protecting community dignity.
+This tracker documents potential ideas for future macro-systemic case studies within the Iowa Community Blueprints repository. To ensure our research is reliable and stays grounded in social work values, this document outlines a simple three-step validation process. This structure helps us catch incorrect assumptions early and keeps our focus strictly on building relationships, improving continuity of care, and protecting community dignity.
 
 ---
 
