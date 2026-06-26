@@ -11,22 +11,18 @@ Before a topic moves from a raw idea to an active investigation, it must meet th
 1. **Established Momentum:** Priority is given to issues that already have community attention or legislative progress (such as bipartisan agreement). This ensures our data is immediately useful to existing advocacy networks.
 2. **Clear Administrative Bottlenecks:** Topics must focus on real-world operational breakdowns, communication gaps, or funding delays between government bureaucracies and frontline services.
 3. **Social Work Practice Alignment:** The project must stay within the professional scope of social work, focusing on client dignity, coordination of care, and relationship building rather than writing complex legal statutes or advanced technical code.
-4. **Structural Focus over Personalities:** In line with repository rules, we investigate institutional frameworks, financial pipelines, and regulatory loops. We do not focus on or target individual administrative staff or local workers.
+4. **Structural Focus over Personalities:** In line with repository rules, we investigate institutional frameworks, financial pipelines, and regulatory loops. We do not focus on targeting individual frontline personnel.
 
 ---
 
-## II. THE TRACKING PIPELINE
+## II. THE INVESTIGATIVE PIPELINE
 
-### Phase 1: The Idea Pool (Unverified Concepts)
-*Objective: Gathering a wide variety of topics from the city, county, and state levels. These are raw ideas that have not yet been verified or researched.*
+### Phase 1: Raw Suggestions
+*Objective: Gathering early community ideas and incoming tracking notices regarding local systemic friction points.*
 
-* **L-1: State Property Tax Revenue Caps and Local Service Cuts**
-  * *Context:* Tracking how the property tax cap under Iowa Senate File 2472 impacts accessible community infrastructure in Des Moines (such as proposed library hour reductions and new parking fees at Gray’s Lake).
-* **L-2: Post-Discharge Regional Care Transitions (HF 385)**
-  * *Context:* Examining ongoing communication and funding coordination gaps between hospital networks and regional care coordinators under the new psychiatric discharge timeline guidelines.
-* **L-3: Hyper-Local Infrastructure Challenges along SE 18th Court**
-  * *Context:* Mapping how municipal code decisions, utility accessibility, or zoning variances impact neighborhood economic stability on a single street corridor.
-* **L-4: Winter Emergency Shelter Permitting and Zoning Barriers**
+* **Lead L-1: Local Budget Impact Analysis (SF 2472)**
+  * *Context:* Assessing long-term funding match shifts and resource strains within local city manager municipal allocation reports.
+* **Lead L-3: Mobile Home Park Regulatory Compliance and Zoning Barriers**
   * *Context:* Tracking administrative or municipal definition bottlenecks that delay the expansion or approval of emergency transitional housing networks within Polk County.
 
 ---
@@ -48,5 +44,12 @@ Before a topic moves from a raw idea to an active investigation, it must meet th
   * *Tracking ID:* L-2
   * *Strategic Focus:* Mapping operational friction points between inpatient hospital coordinators and regional funding layers to preserve client dignity and medication continuity.
   * *Active Project Artifacts:*
-    * `investigations/psychatric-discharge/sbar-briefing.md`
-    * `investigations/psychatric-discharge/action-roadmap.md`
+    * **[Psychiatric Discharge Case Study Readme](./psychiatric-discharge/README.md)**
+    * **[Psychiatric Discharge SBAR Briefing](./psychiatric-discharge/sbar-briefing.md)**
+    * **[Psychiatric Discharge Action Roadmap](./psychiatric-discharge/action-roadmap.md)**
+
+***
+
+### Mobile Navigation Return Points
+[← Back to Investigations Main Index](./README.md)  
+[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)
