@@ -22,5 +22,5 @@ To keep our neighborhoods safe and protect everyone's privacy, we follow a stric
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Main Repository Root](../README.md)  
-[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)
+[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)  
+[← Back to Main Repository Root](../README.md)
