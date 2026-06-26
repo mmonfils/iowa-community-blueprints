@@ -9,7 +9,7 @@ image: https://mmonfils.github.io/iowa-community-blueprints/iowa-community-thumb
 
 ### Mobile Web Control Panel
 
-Welcome to our shared space. If you are viewing this on a mobile browser or in an incognito window, use the brightly colored links below as your navigation buttons. They are spaced out to be easily tapped on a mobile screen.
+Welcome to our shared space. If you are viewing this on a mobile browser, use the brightly colored links below as your navigation buttons. They are spaced out to be easily tapped on a mobile screen.
 
 [➔ View Open Source Code Repository (GitHub Code View)](https://github.com/mmonfils/iowa-community-blueprints)  
 *(Note: Clicking this link takes you out of this polished website and directly into the public folder system, where you can see the raw files and updates.)*
