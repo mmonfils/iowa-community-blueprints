@@ -1,12 +1,9 @@
 ---
 layout: default
 title: Iowa Community Blueprints
-description: Strong, independent support networks right on our streets and rural roads.
-og_image: https://github.com/mmonfils/iowa-community-blueprints/blob/main/iowa-community-thumbnail.jpg
+description: Strong, independent support networks right on our streets and rural roads, free from red tape, complex laws, or corporate influence.
+image: https://mmonfils.github.io/iowa-community-blueprints/iowa-community-thumbnail.jpg
 ---
-
-# Iowa Community Blueprints
-### Strong, independent support networks right on our streets and rural roads, free from red tape, complex laws, or corporate influence.
 
 [View Open Public Ledger (Main Repository)](https://github.com/mmonfils/iowa-community-blueprints)
 
