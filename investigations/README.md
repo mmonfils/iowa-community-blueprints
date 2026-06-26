@@ -25,5 +25,5 @@ In strict compliance with our core project rules, no personal private informatio
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Main Repository Root](../README.md)  
-[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)
+[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)  
+[← Back to Main Repository Root](../README.md)
