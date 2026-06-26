@@ -23,5 +23,5 @@ To maintain strict privacy and data integrity, documents within this folder must
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Main Repository Root](../README.md)  
-[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)
+[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)  
+[← Back to Main Repository Root](../README.md)
