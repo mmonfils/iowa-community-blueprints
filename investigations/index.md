@@ -1,35 +1,33 @@
 ---
 layout: default
-title: Investigations Workspace
-description: Public record verification and local area tracking maps.
+title: Hospital Transitions Review
+description: Tracking communication gaps and supporting community safety during hospital transitions.
 ---
 
-# Investigations Workspace: Public Record Verification and System Maps
+# Hospital Transitions Review: Care Gaps and Community Coordination
 
-Welcome to the investigations space. This directory serves as the centralized home for public records, local tracking maps, and verified data sheets regarding public utilities, local regulations, housing trends, and government frameworks.
+Welcome to the hospital transitions review space. This active case study examines real-world coordination breakdowns and timing delays between regional treatment centers and local housing networks. 
 
-## Core Operational Objectives
+## Case Overview
 
-* **Provide Proof for Every Claim:** Maintain a clear, verifiable list of official records to back up and validate all community reporting and structural claims.
-* **Focus on Systems, Not Individuals:** Focus strictly on root causes, laws, and institutional frameworks (such as regional utility grids or city codes) while completely excluding personal focus on individual local workers or administrative staff.
-* **Keep an Open Evidence Vault:** Act as a permanent public verification space where neighbors, journalists, and policy makers can look up our sources and independently check our conclusions.
+* **Tracking ID:** L-2
+* **Primary Policy Pivot:** HF 385 (Hospital Resource Transitions Framework)
+* **Core Goal:** To preserve immediate personal dignity and ensure ongoing access to vital medication during local housing shifts.
 
-## Directory Structure and Strategic Tracking
+## Practical Areas of Focus
 
-To keep our research orderly, this directory uses a central tracking file that links straight to our active case study folders:
+* **The Communication Hand-off:** Spotting where paperwork delays leave neighbors without clear next steps when leaving regional facilities.
+* **Medication Continuity:** Ensuring that individuals are not left without an immediate supply of necessary prescriptions during an administrative transition.
+* **Local Housing Loops:** Verifying that neighborhood support networks receive timely updates to coordinate safe arrivals and stable bedding.
 
-* **[Future Case Study Tracker](./leads.md):** The central hub for our research pipeline. This file organizes ideas into three clear steps, including raw community suggestions, ideas currently undergoing fact-checking, and active research topics. It uses a simple sequential numbering system so ideas are easy to follow as they develop.
-* **Active Case Studies:** Specialized research subfolders containing strategic summaries, neighborhood solutions matrices, step-by-step action guides, and official public documents for active topics.
-  * **[Psychiatric Discharge Coordination Project](./psychiatric-discharge/index.md):** An active case study investigating structural gaps and care coordination friction between inpatient facilities and local resource grids.
+## Active Project Records
 
-## Operational Protocol
-
-All files housed within this directory must consist exclusively of public records, statutory texts, regional data sheets, or official city disclosures. 
-
-In strict compliance with our core project rules, no personal private information, local mutual aid lists, or private household data can ever enter this workspace. We maintain a strict, absolute wall between open-source systemic data and local community organizing networks to protect the safety and privacy of our neighbors.
+* **[Situation Briefing (SBAR Layout)](./sbar-briefing.md):** A clear four-quadrant analysis identifying exactly where administrative hand-offs break down.
+* **[Action Roadmap](./action-roadmap.md):** A simple seasonal guide mapping out strategic check-ins, local partnerships, and rollout steps.
 
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)  
-[← Back to Main Repository Root](../index.md)
+[← Back to Investigations Tracker](../leads.md)  
+[← Back to Investigations Main Index](../index.md)  
+[← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)
