@@ -2,7 +2,7 @@
 layout: default
 title: Iowa Community Blueprints
 description: Strong, independent support networks right on our streets and rural roads, free from red tape, complex laws, or corporate influence.
-image: https://mmonfils.github.io/iowa-community-blueprints/iowa-community-thumbnail.jpg
+image: https://mmonfils.github.io/iowa-community-blueprints/assets/iowa-community-thumbnail.jpg
 ---
 
 # Iowa Community Blueprints
@@ -23,13 +23,13 @@ Every single person living in our local areas has full standing, absolute dignit
 
 ## Explore the Community Guides
 
-* **[Social Infrastructure Track](./social-infrastructure/)** Field manuals for building resilient neighbor groups, establishing local communication loops, and organizing support networks across nearby homes.
+* **[Social Infrastructure Track](./social-infrastructure/index.md)** Field manuals for building resilient neighbor groups, establishing local communication loops, and organizing support networks across nearby homes.
   
-* **[Economic Solidarity Track](./economic-solidarity/)** Anonymized, offline templates to help neighbors catalog tools, swap skills, and log mutual help without using money.
+* **[Economic Solidarity Track](./economic-solidarity/index.md)** Anonymized, offline templates to help neighbors catalog tools, swap skills, and log mutual help without using money.
   
-* **[Policy Navigator Track](./policy-navigator/)** Plain-language toolkits to help everyday people understand regional codes, monitor corporate property networks, and build bottom-up fiscal arguments.
+* **[Policy Navigator Track](./policy-navigator/index.md)** Plain-language toolkits to help everyday people understand regional codes, monitor corporate property networks, and build bottom-up community choices.
   
-* **[Independent Investigations Workspace](./investigations/)** An open public archive tracking regional administrative gaps and operational bottlenecks, fully anchored back to public records with absolute integrity.
+* **[Independent Investigations Workspace](./investigations/index.md)** An open public archive tracking regional administrative gaps and operational bottlenecks, fully anchored back to public records with absolute integrity.
 
 ***
 

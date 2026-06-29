@@ -49,4 +49,4 @@ To make sure our neighborhood stays safe and our personal data stays private, ne
 
 ### Mobile Navigation Return Points
 [← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)  
-[← Back to Main Repository Root](../README.md)
+[← Back to Main Repository Root](../index.md)

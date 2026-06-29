@@ -33,6 +33,6 @@ These back-end outcomes not only compromise individual human dignity but also pl
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Psychiatric Discharge Workspace Index](./README.md)  
-[← Back to Investigations Main Index](../README.md)  
+[← Back to Psychiatric Discharge Workspace Index](./index.md)  
+[← Back to Investigations Main Index](../index.md)  
 [← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)

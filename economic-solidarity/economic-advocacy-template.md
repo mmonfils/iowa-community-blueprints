@@ -1,6 +1,6 @@
 # Bottom-Up Economic Advocacy Tool
 
-Use this tool to help everyday community members build a clear, evidence-informed economic case for community investments. This template guides neighbors through a basic cost translation layer, comparing the small, upfront cost of preventative care against the massive financial burdens borne by public systems when a crisis occurs.
+Use this tool to help everyday community members build a clear, evidence-informed economic case for community investments. This template guides neighbors through a basic translation process, comparing the small, upfront cost of preventative care against the massive financial burdens borne by public systems when a crisis occurs.
 
 ---
 
@@ -29,5 +29,5 @@ Use this tool to help everyday community members build a clear, evidence-informe
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Economic Solidarity Guides](./README.md)  
+[← Back to Economic Solidarity Guides](./index.md)  
 [← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)

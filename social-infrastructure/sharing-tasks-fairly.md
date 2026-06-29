@@ -17,5 +17,5 @@ This guide explains how to distribute neighborhood tasks so that everyone helps 
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Social Infrastructure Guides](./README.md)  
+[← Back to Social Infrastructure Guides](./index.md)  
 [← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)

@@ -1,3 +1,9 @@
+---
+layout: default
+title: Social Infrastructure Track
+description: Field manuals for building resilient neighbor groups and block teams.
+---
+
 # Social Infrastructure Track: Neighbor Pods and Local Support Networks
 
 Welcome to the social infrastructure track. This directory contains simple guides, field manuals, and sharing tools to help us build strong, supportive networks right on our streets and rural roads. These tools help neighbors organize independent safety nets to support each other through everyday hardships, heavy storms, or power outages without waiting around for slow institutional help.
@@ -11,9 +17,10 @@ Welcome to the social infrastructure track. This directory contains simple guide
 
 ## Folder Contents
 
-* **[Neighbor Organizing Playbook](./neighbor-organizing-playbook.md)** A step-by-step field guide on how to say hello to neighbors on your street, figure out what people need, and start an active neighbor pod.
-* **[Sharing Tasks Fairly](./sharing-tasks-fairly.md)** A simple helper tool with rotating schedules to ensure shared tasks stay balanced, keeping things fair and preventing anyone from getting burned out.
-* **[Neighbor Communication Template](./neighbor-communication-template.md)** A guide to help connect major news updates to real-world, person-to-person talks, featuring open-ended questions and story-sharing ideas.
+* **[Neighbor Organizing Playbook](./neighbor-organizing-playbook.md):** A step-by-step field guide on how to say hello to neighbors on your street, figure out what people need, and start an active neighbor pod.
+* **[Sharing Tasks Fairly](./sharing-tasks-fairly.md):** A simple helper tool with rotating schedules to ensure shared tasks stay balanced, keeping things fair and preventing anyone from getting burned out.
+* **[Big Picture Framework](./big-picture-framework.md):** A basic structural template to analyze major policy adjustments, town planning developments, or statutory changes to map out immediate regional impact.
+* **[Neighbor Communication Template](./neighbor-communication-template.md):** A guide to help connect major news updates to real-world, person-to-person talks, featuring open-ended questions and story-sharing ideas.
 
 ## Keeping Our Private Details Offline
 
@@ -23,4 +30,4 @@ To keep our neighborhoods safe and protect everyone's privacy, we follow a stric
 
 ### Mobile Navigation Return Points
 [← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)  
-[← Back to Main Repository Root](../README.md)
+[← Back to Main Repository Root](../index.md)

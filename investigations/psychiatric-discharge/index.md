@@ -25,5 +25,5 @@ This workspace is maintained as a static reference database. Modifications are e
 
 ### Mobile Navigation Return Points
 [← Back to Future Case Study Tracker (leads.md)](../leads.md)  
-[← Back to Investigations Main Index](../README.md)  
+[← Back to Investigations Main Index](../index.md)  
 [← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)

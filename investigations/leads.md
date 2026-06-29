@@ -1,6 +1,6 @@
 # Investigations Workspace: Future Case Study Tracker
 
-This tracker documents potential ideas for future macro-systemic case studies within the Iowa Community Blueprints repository. To ensure our research is reliable and stays grounded in social work values, this document outlines a simple three-step validation process. This structure helps us catch incorrect assumptions early and keeps our focus strictly on building relationships, improving continuity of care, and protecting community dignity.
+This tracker documents potential ideas for future large-scale community case studies within the Iowa Community Blueprints repository. To ensure our research is reliable and stays grounded in practical community support, this document outlines a simple three-step validation process. This structure helps us catch incorrect assumptions early and keeps our focus strictly on building relationships, improving continuity of care, and protecting community dignity.
 
 ---
 
@@ -8,9 +8,9 @@ This tracker documents potential ideas for future macro-systemic case studies wi
 
 Before a topic moves from a raw idea to an active investigation, it must meet the following four standards:
 
-1. **Established Momentum:** Priority is given to issues that already have community attention or legislative progress (such as bipartisan agreement). This ensures our data is immediately useful to existing advocacy networks.
+1. **Established Momentum:** Priority is given to issues that already have community attention or legislative progress (such as broad public agreement). This ensures our data is immediately useful to existing advocacy networks.
 2. **Clear Administrative Bottlenecks:** Topics must focus on real-world operational breakdowns, communication gaps, or funding delays between government bureaucracies and frontline services.
-3. **Social Work Practice Alignment:** The project must stay within the professional scope of social work, focusing on client dignity, coordination of care, and relationship building rather than writing complex legal statutes or advanced technical code.
+3. **Frontend Practice Alignment:** The project must stay within the practical scope of community support, focusing on client dignity, coordination of care, and relationship building rather than writing complex legal statutes or advanced technical code.
 4. **Structural Focus over Personalities:** In line with repository rules, we investigate institutional frameworks, financial pipelines, and regulatory loops. We do not focus on targeting individual frontline personnel.
 
 ---
@@ -44,12 +44,12 @@ Before a topic moves from a raw idea to an active investigation, it must meet th
   * *Tracking ID:* L-2
   * *Strategic Focus:* Mapping operational friction points between inpatient hospital coordinators and regional funding layers to preserve client dignity and medication continuity.
   * *Active Project Artifacts:*
-    * **[Psychiatric Discharge Case Study Readme](./psychiatric-discharge/README.md)**
-    * **[Psychiatric Discharge SBAR Briefing](./psychiatric-discharge/sbar-briefing.md)**
+    * **[Psychiatric Discharge Case Study Summary](./psychiatric-discharge/index.md)**
+    * **[Psychiatric Discharge Situation Briefing](./psychiatric-discharge/sbar-briefing.md)**
     * **[Psychiatric Discharge Action Roadmap](./psychiatric-discharge/action-roadmap.md)**
 
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Investigations Main Index](./README.md)  
+[← Back to Investigations Main Index](./index.md)  
 [← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)

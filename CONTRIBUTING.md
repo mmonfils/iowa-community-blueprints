@@ -2,13 +2,13 @@
 
 Thank you for helping make our neighborhoods more self-reliant! To keep our community networks safe and secure, all contributions must follow our strict privacy and sharing guidelines.
 
-## The Rule Against Private Information (No PII)
+## The Rule Against Private Information
 
-Our absolute priority is protecting our neighbors and preserving operational security.
+Our absolute priority is protecting our neighbors and preserving community security.
 
-1. **What we accept:** We welcome updates that improve text-loop scripts, fix structural template errors, share verified policy data, or make our deployment manuals more effective for field execution.
-2. **What is strictly banned:** Do NOT submit real names, phone numbers, house numbers, private health variables, or any personal information about your neighbors or block pods to this public repository. 
-3. **Enforce Purpose-Driven Clarity:** Write updates in a clear, authoritative, and direct posture. Avoid empty corporate buzzwords and casual conversational "chatter." Focus entirely on high-density, actionable information with zero dilution of meaning.
+1. **What we accept:** We welcome updates that improve text-loop scripts, fix structural template errors, share verified public policy data, or make our deployment manuals more effective for field execution.
+2. **What is strictly banned:** Do NOT submit real names, phone numbers, house numbers, private health data, or any personal information about your neighbors or block pods to this public repository. 
+3. **Use Clear and Direct Writing:** Write updates in a clear, authoritative, and direct manner. Avoid empty corporate buzzwords and casual conversational commentary. Focus entirely on helpful, actionable information with zero dilution of meaning.
 
 ## Licensing and Sharing Agreement
 

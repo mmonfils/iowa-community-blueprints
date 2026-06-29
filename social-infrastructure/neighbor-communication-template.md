@@ -6,7 +6,7 @@ Use this guide to connect the larger institutional analysis from the Big Picture
 
 ## 1. Setting the Baseline (Moving Past the Noise)
 
-* **The Core Concept:** What is the specific development or neighborhood shift we are discussing? (This is pulled directly from the analysis in the **[Big Picture Framework](../policy-navigator/big-picture-framework.md)**).
+* **The Core Concept:** What is the specific development or neighborhood shift we are discussing? (This is pulled directly from the analysis in the nearby **[Big Picture Framework](./big-picture-framework.md)**).
 * **The Shared Value Anchor:** What is the underlying, non-controversial value that binds neighbors together on this issue? (Examples include keeping our kids safe, protecting accessible neighborhood spaces, or ensuring dignity and care continuity for vulnerable residents).
 
 ---
@@ -27,5 +27,5 @@ Use this guide to connect the larger institutional analysis from the Big Picture
 ***
 
 ### Mobile Navigation Return Points
-[← Back to Social Infrastructure Guides](./README.md)  
+[← Back to Social Infrastructure Guides](./index.md)  
 [← Back to Live Mobile Landing Page](https://mmonfils.github.io/iowa-community-blueprints/)
